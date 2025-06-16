@@ -1,10 +1,17 @@
-# SHAYFLY PRO
 
-אתר חופשות מקצועי כולל חיפוש טיסות, מלונות ורכבים.
+# SHAYFLY Pro Travel Aggregator
 
-## הפעלה
-```bash
+Professional multi-language (Hebrew, English, Russian) travel aggregator site built with React, Vite, Tailwind CSS.
+
+## Run
 npm install
+npm run dev
+
+## Build
 npm run build
-npm run deploy
-```
+
+## Features
+- Multi-language
+- SEO Ready
+- Responsive
+- Realistic Search Engine (Demo)
